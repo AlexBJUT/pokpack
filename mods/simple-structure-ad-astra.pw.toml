@@ -1,0 +1,13 @@
+name = "Simple Structures: Ad Astra"
+filename = "Simple Structures Ad Astra 1.21.1 1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a1b54ae0702d1f798923e1a97eb0583a21150926"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8812358
+project-id = 1466410
