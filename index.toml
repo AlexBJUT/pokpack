@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "acbbc3f4cf7521c953a59f06a18df9a4e50778b1f69e27b3be85824789cf51f4"
+hash = "e8506cd3259cf74eb5297dc8995c958782ec5b1d9d5fe0b8b88ddd81031a5398"
 metafile = true
 
 [[files]]
@@ -223,11 +223,6 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
-metafile = true
-
-[[files]]
-file = "mods/create.pw.toml"
-hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
@@ -357,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
+hash = "1506a3d749a45bc760b3ad57ef1fbb959f0c166b6d1d4955114fd66db7a4855d"
 metafile = true
 
 [[files]]
