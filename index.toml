@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/Simple Structures Ad Astra 1.21.1 1.2.jar"
-hash = "ef8d31e19ccb0b44bcd6a96f073904f3dd842c27f88a4b00efe45f7696d839f5"
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
 metafile = true
