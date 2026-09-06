@@ -291,6 +291,11 @@ hash = "3529bc9c3a7b54933869be1d1d84a948d091c3d6064bbb6b17874d7c153b4dca"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "555624620c434a7a24517e67d0317318fc226f49f8bddd820dd22f3442f179bd"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "65ac18556f91ebb4f303a39731e93e94ffa94ddc690b0fbf35346bdcb3b05919"
 metafile = true
@@ -523,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/rctmod.pw.toml"
 hash = "5e9f4ef21cd4d64f62be84aca01d81a550e8f38e60ec712d531bb4d06b98e88c"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "a5baf69c2cb3f12339e20cd52b30a5d1eb46c620f65662f8452ac0e8d0bc113a"
 metafile = true
 
 [[files]]
