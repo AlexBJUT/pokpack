@@ -1,0 +1,13 @@
+name = "BuildCraft Community Edition"
+filename = "BuildCraft-Community-Edition-8.0.17+1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "69694a005be206334c39d8a18d677ebbd9fd26a3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8709018
+project-id = 1592400
