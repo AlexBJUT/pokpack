@@ -496,11 +496,6 @@ hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
 metafile = true
 
 [[files]]
-file = "mods/simple-structure-ad-astra.pw.toml"
-hash = "5d5b784e44d80126ccfe8abc624fc5600cf12f620f0602cc32d20f25d6b3559f"
-metafile = true
-
-[[files]]
 file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
 hash = "8d00e5d6c44ec2ebb13b2659225091a81c62e15b7093acbb1b37957be0465fed"
 metafile = true
