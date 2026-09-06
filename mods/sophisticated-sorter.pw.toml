@@ -1,0 +1,13 @@
+name = "Sophisticated Sorter"
+filename = "SophisticatedSorter-neoforge-1.21.1-1.1.0-hotfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "efe3cc42ca0bc5bf87ebe0992855f3a68d82f40d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8807316
+project-id = 1375092

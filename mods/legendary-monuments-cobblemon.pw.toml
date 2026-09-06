@@ -1,0 +1,13 @@
+name = "Cobblemon: Legendary Monuments"
+filename = "legendarymonuments-neoforge-1.21.1-8.1-Love_for_All.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac26efbe785d56cfc4f76dcbe4901b2e1c7c9da4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8606375
+project-id = 1263645

@@ -1,0 +1,13 @@
+name = "Dungeons And Villages: Ad Astra"
+filename = "Dungeon And Village Ad Astra 1.21.1  1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43d2bb7908528f41b1a6d1b4577bb3e9a788a268"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8812361
+project-id = 1464751

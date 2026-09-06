@@ -1,0 +1,13 @@
+name = "Chosen's Create: Integrated"
+filename = "Chosen's Create Integrated - 1.4.3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cffc2172b7cd7e8a8079c6eca5d93a4e120632b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7832071
+project-id = 1409114

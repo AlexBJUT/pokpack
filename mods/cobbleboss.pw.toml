@@ -1,0 +1,13 @@
+name = "CobbleBoss"
+filename = "cobbleboss-6.0.0-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d30c8f50aaf509e9972faaded4cc8de15e33a31f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8136843
+project-id = 1383944

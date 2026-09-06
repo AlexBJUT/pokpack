@@ -1,0 +1,13 @@
+name = "MCPitanLib"
+filename = "mcpitanlib-4.0.7-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a755ddb3d38d2476e268fc4f57f148ac9b5c7c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8738956
+project-id = 682213
