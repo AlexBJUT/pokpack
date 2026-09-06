@@ -1,9 +1,5 @@
 hash-format = "sha256"
 
-[[files]]
-file = "chosens-create-integrated.pw.toml"
-hash = "f5a15f73cb1d1798274e56e1f05cf3606b6514f33ed26048d807ab74b0282efd"
-metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
