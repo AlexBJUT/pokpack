@@ -241,6 +241,11 @@ hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
 metafile = true
 
 [[files]]
+file = "mods/cyclic.pw.toml"
+hash = "f45212429212a5dad6ecf6cd105e47f0091ea59f0f21cafe4160330983227b4f"
+metafile = true
+
+[[files]]
 file = "mods/deep-resonance.pw.toml"
 hash = "b68d2ede900a77e7aba0d43090adf0506c95e7c520fe70748b6e5b6c9f1c03ee"
 metafile = true
@@ -278,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
+metafile = true
+
+[[files]]
+file = "mods/flib.pw.toml"
+hash = "e3a629fe7b4cfb64098081c43cc32796bb25c06179b0ce80410c976d2c285cca"
 metafile = true
 
 [[files]]
@@ -476,6 +486,11 @@ hash = "e6452b031866f7cc310fcb40d71701d20e83ed3631d1f8787590c64981636fe8"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "2e9a8daaa0e0cc9cdfb67422e0f928f2db6a1f2984b8636eb2b5091c5fb23e29"
+metafile = true
+
+[[files]]
 file = "mods/occultism.pw.toml"
 hash = "3a3790ce534379a2bdbe963419c4463349e4273d9e51991970822d84c42eb390"
 metafile = true
@@ -613,6 +628,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-sorter.pw.toml"
 hash = "c75e10261d62c8555b80ca5a7bf57460bdaee2271a4981e243d15fde5ff16d15"
+metafile = true
+
+[[files]]
+file = "mods/structure-compass.pw.toml"
+hash = "c13a3e1416f98724ea057b54958899848298723b4f0d181e410b3f0d93419935"
 metafile = true
 
 [[files]]
