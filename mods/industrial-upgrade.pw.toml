@@ -1,0 +1,13 @@
+name = " [IU] Industrial Upgrade"
+filename = "IndustrialUpgrade-1.21.1-3.4.0.13.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "622878e4fb0d1bd9789907a08b0d5e0be54cd288"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8600905
+project-id = 372007
