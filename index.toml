@@ -356,23 +356,8 @@ hash = "21126c8c96eed810699e7761c331307bf0624424d98b854e86d34bcc35ffa34c"
 metafile = true
 
 [[files]]
-file = "mods/industrial-upgrade.pw.toml"
-hash = "5d1e202fef307003dae48de76f4007e10f6d353b00fef32fc4ed96595b7090ae"
-metafile = true
-
-[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "763ed0c115b2b9a1e37e38cb153748c9c3f3c31869fd3d56acfaad54c63e78af"
-metafile = true
-
-[[files]]
-file = "mods/iu-diamond-vein.pw.toml"
-hash = "e75fda691248b6ac9ba09d260e073113ad10f32b271fd39b0f8eb7269dc03126"
-metafile = true
-
-[[files]]
-file = "mods/iu-watering-can.pw.toml"
-hash = "b3c9285982b413ddff26cf1336580dcbd1e9385b2a46914b522a9123f2cfc462"
 metafile = true
 
 [[files]]
@@ -531,11 +516,6 @@ hash = "b484f15d3353a7d4b3baf14b9da340c922299aead74f7f052dd886f49489d7fd"
 metafile = true
 
 [[files]]
-file = "mods/power-utilities-iu.pw.toml"
-hash = "451ff6225ed20c4f9877623cb625881d539e238197193ecb872f1825eb6df3dc"
-metafile = true
-
-[[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
@@ -548,11 +528,6 @@ metafile = true
 [[files]]
 file = "mods/psi.pw.toml"
 hash = "d14a1b2b681d36eda0977d8b2191f1535d90e06897f95059c32fa4943e91b198"
-metafile = true
-
-[[files]]
-file = "mods/quantum-generators.pw.toml"
-hash = "345df1f417057ce441db9d79eed15212d5be5ec5ff8390669adab49289c1ced9"
 metafile = true
 
 [[files]]
@@ -573,11 +548,6 @@ metafile = true
 [[files]]
 file = "mods/rctmod.pw.toml"
 hash = "5e9f4ef21cd4d64f62be84aca01d81a550e8f38e60ec712d531bb4d06b98e88c"
-metafile = true
-
-[[files]]
-file = "mods/reactor-plus.pw.toml"
-hash = "3c025d149af2b6f528b17a5660d0e14ef32ac16cdb4246ab9746dd7c927e213c"
 metafile = true
 
 [[files]]
@@ -633,11 +603,6 @@ metafile = true
 [[files]]
 file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
 hash = "8d00e5d6c44ec2ebb13b2659225091a81c62e15b7093acbb1b37957be0465fed"
-metafile = true
-
-[[files]]
-file = "mods/simply-quarries.pw.toml"
-hash = "87508c439e3ff2cca92d6fb21b137e7092fa6de6f42038cafead1ad11deee244"
 metafile = true
 
 [[files]]
