@@ -96,6 +96,11 @@ hash = "48ccf754257a1d140c12e4cee3bd7901392023fcd5a3fc961b7275448459fe73"
 metafile = true
 
 [[files]]
+file = "mods/bonsai-trees.pw.toml"
+hash = "8105b7cb6eb06eca4be8e9a83406fe7fb7e7f62abea8501125fbe52b7e47d483"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
