@@ -671,11 +671,6 @@ hash = "1316f9c04d36621a61989319e047735fd83e4b0e951dd6c89318ff8b4dfc1b4d"
 metafile = true
 
 [[files]]
-file = "mods/wthit-forge.pw.toml"
-hash = "bb875b2cf893956cec624c16822ec9b05f1f03feb546f08adf7af7fe853af6bb"
-metafile = true
-
-[[files]]
 file = "mods/zeta.pw.toml"
 hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
 metafile = true
