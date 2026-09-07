@@ -661,6 +661,11 @@ hash = "f083c3cdf6aadc3b033e20ba8ccc929d5e1b86a0be50b05dc638d7f76dab5024"
 metafile = true
 
 [[files]]
+file = "mods/the-one-probe.pw.toml"
+hash = "1f1a3f75990ef53c075ae0b31855f170f21c7b0ce7321438971dca3eb3965fce"
+metafile = true
+
+[[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "3cd7280f90ef9e2754cf2b6f45b749d1054c6348873a61044ce808dfe977c15a"
 metafile = true
