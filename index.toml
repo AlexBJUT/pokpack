@@ -471,6 +471,11 @@ hash = "efa2b56b0bcef169d26936f75456099202ead6646fa4b7e0d8fad6fec2e11be4"
 metafile = true
 
 [[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "e5e5f8a0928504487c206c12840828529e3cbeab8d0e395272d694f7e6bf70d2"
+metafile = true
+
+[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "9937e9a35461a0d55b574bb3e363c342b033a937f3e99365697886df6ce5ba73"
 metafile = true
