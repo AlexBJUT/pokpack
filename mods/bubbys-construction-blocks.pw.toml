@@ -1,0 +1,13 @@
+name = "Construction Blocks"
+filename = "construction_blocks-b1.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ef69eec99e536e7ff2d2ced4dd21992f2dbc92a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6917319
+project-id = 1330744
