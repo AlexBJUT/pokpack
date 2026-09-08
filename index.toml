@@ -131,6 +131,11 @@ hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
 metafile = true
 
 [[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "6266716a1098ed2a27b392ebcd45a5cc163733045ed86308b8eecb5978093674"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true
@@ -241,6 +246,11 @@ hash = "83ea88c8687aebdc1b1f09ce6da7241a3d2119574301f597982756d04e6c9e1d"
 metafile = true
 
 [[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "4bd3667f570f82fb1480f173ffb6259876f4620de3a085fb8d7a442d214c5b51"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
 metafile = true
@@ -283,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/extra-move-anims-cobblemon.pw.toml"
 hash = "9c3e7688ee3b53f2bfb390611a137b25619a71fc284c608f7e45a82342d966be"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "f8890e55be67dddba9789c5913e934ae06c2f0c3af83c231916c0ef305a16ff5"
 metafile = true
 
 [[files]]
