@@ -106,6 +106,11 @@ hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "816ae53b09d3b3c2e3b4e74470bf2332fcde8a5ae322e1a39bd11656ef1fa8e6"
+metafile = true
+
+[[files]]
 file = "mods/buildcraft-community-edition.pw.toml"
 hash = "94e0d98928414a83c6314e11bb6c6105e839ed137be4a5dc024dd80dd2acc604"
 metafile = true
@@ -302,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
+hash = "d9ed9ac8e0db9db29078dafa22bc2d86ac702f10863ae7cb1d5245111c5ea17b"
 metafile = true
 
 [[files]]
@@ -528,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/occultism.pw.toml"
 hash = "3a3790ce534379a2bdbe963419c4463349e4273d9e51991970822d84c42eb390"
+metafile = true
+
+[[files]]
+file = "mods/oritech.pw.toml"
+hash = "1e095c1ef3d6f3a375df601a208657313d2c8a541d4d58944d808d292dddef81"
 metafile = true
 
 [[files]]
