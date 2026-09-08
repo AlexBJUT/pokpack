@@ -1,0 +1,13 @@
+name = "WoodMek - Wood for Makanism "
+filename = "woodmek-9.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5fbacf56df7daab8ea99a96726572eaa7afd0271"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6739286
+project-id = 1292973

@@ -691,6 +691,11 @@ hash = "1316f9c04d36621a61989319e047735fd83e4b0e951dd6c89318ff8b4dfc1b4d"
 metafile = true
 
 [[files]]
+file = "mods/woodmek.pw.toml"
+hash = "19ba3de3eb3b122594206eb96c9fbb62668de4e65621a96b4b3ce9508e85bfff"
+metafile = true
+
+[[files]]
 file = "mods/zeta.pw.toml"
 hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
 metafile = true
