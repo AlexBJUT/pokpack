@@ -121,11 +121,6 @@ hash = "279f6f5c47e3a7022fe7c1c31e08d63b3832ef890d6cf0b8578b52e7d990102c"
 metafile = true
 
 [[files]]
-file = "mods/cc-graphics.pw.toml"
-hash = "7e8026ac341a8d802ebe72773927d675349097026d42c35bdf1674cc6b554b74"
-metafile = true
-
-[[files]]
 file = "mods/cc-tweaked-compat.pw.toml"
 hash = "93dc60ce16c90b4f731a56d09005df9e81face302569c9ac6af3f43e71789441"
 metafile = true
