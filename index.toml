@@ -16,6 +16,11 @@ hash = "05b443cc0b0f47805796dc16def6e4efd1a397f6bbc74fde9075eb801e29c0dd"
 metafile = true
 
 [[files]]
+file = "mods/ae2-jei-integration.pw.toml"
+hash = "491974dc6adba0e893fb755f55dfe833a1076ba49fdf9e4f92b8b9fa069ce9b5"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs-battle-music.pw.toml"
 hash = "5f72a863bc00b77633e7570b371e3af099409ab33753fb90a4f263cce8c81c40"
 metafile = true
@@ -387,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3c513e51d7c76336af827569fb3107417b77d75dd6da9485a88ed5715bdc3647"
+hash = "2cbe243165bac018b7d1f157447c981027cf85c27c6746052b3d41dcda91485c"
 metafile = true
 
 [[files]]
