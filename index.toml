@@ -41,6 +41,11 @@ hash = "afa4f499d946514c51f41f8f2202ac0946052b012570a210ebb31f0d0d627672"
 metafile = true
 
 [[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "f15037bbd326999cb63b1267628f64c29ca3df1650c2276e492cb5ff88fbed7e"
+metafile = true
+
+[[files]]
 file = "mods/aquaculture-delight.pw.toml"
 hash = "918cbc479cfc5c66ee234bc3f71ee584c1ab596f0d88aaa59bf66ca3b404c5db"
 metafile = true
