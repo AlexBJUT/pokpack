@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".index.toml.kate-swp"
+hash = "1790f8d837c77714967d48116e2e5c5995e340491eabe5636e319d9cd5495311"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
 metafile = true
@@ -121,8 +125,8 @@ hash = "816ae53b09d3b3c2e3b4e74470bf2332fcde8a5ae322e1a39bd11656ef1fa8e6"
 metafile = true
 
 [[files]]
-file = "mods/buildcraft-community-edition.pw.toml"
-hash = "94e0d98928414a83c6314e11bb6c6105e839ed137be4a5dc024dd80dd2acc604"
+file = "mods/buildcraft-unofficial.pw.toml"
+hash = "e37300599d8657ed0d5df502660bdff9d193840d61aafc617bf47106e5a3e41c"
 metafile = true
 
 [[files]]
